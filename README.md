@@ -233,5 +233,5 @@ Contributions are welcome! If you’d like to improve the examples or add new co
 6. Open a Pull Request on the original repository.
 
 **Contact**
-For any questions, please reach out to the repository maintainer.
+For any questions, please reach out to the repository maintainer - Eric Gitangu
 
