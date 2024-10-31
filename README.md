@@ -36,7 +36,7 @@ This repository is designed to provide in-depth examples of **Laravel’s most i
 
 ## Getting Started
 
-To start using this repo, **fork it**, clone it, and install the necessary dependencies.
+To start using this repo, **fork it**, clone it, and install the necessary dependencies. Or live at: <https://lavarel-deveric-6e99878107dc.herokuapp.com/>
 
 ### Fork This Repository
 1. **Fork** the repository by clicking the “Fork” button at the top of this page.
